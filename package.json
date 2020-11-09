@@ -1,0 +1,22 @@
+{
+  "name": "github_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/port-kazuki-hara/github_actions.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/port-kazuki-hara/github_actions/issues"
+  },
+  "homepage": "https://github.com/port-kazuki-hara/github_actions#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
